@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+X:\Altium Project\History\PCB_Project\Project Outputs for PCB_Project\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/10/25
+Time:       20:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint  Center-X(mil) Center-Y(mil) Rotation Description                                                                                
+R2         360R         BottomLayer R0805      633.858       488.189       270      "CRCW FIXED RESISTOR 0805 (2012Metric) Chip Resistor ±1% ±100ppm/C 360Ohm 0.125W 1/8W"     
+D2         Green        BottomLayer LED0603G   633.858       291.339       90       "LNJ337W83RA, Ess II Series Yellow-green Led, 572 Nm 1608(0603), Rectangle Lens"           
+R1         360R         TopLayer    R0805      177.165       533.465       270      "CRCW FIXED RESISTOR 0805 (2012Metric) Chip Resistor ±1% ±100ppm/C 360Ohm 0.125W 1/8W"     
+J1         "1x2 Header" TopLayer    HEADER_1X2 492.126       383.071       0        "KK 254 Wire-to-Board Header, Vertical, with Friction Lock, 2 Circuits, Gold (Au) Plating" 
+D1         Green        TopLayer    LED0603G   177.165       157.480       90       "LNJ337W83RA, Ess II Series Yellow-green Led, 572 Nm 1608(0603), Rectangle Lens"           
